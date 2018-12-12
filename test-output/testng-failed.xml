@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [TestAll]">
+  <test name="phptravel(failed)">
+    <groups>
+      <run>
+        <include name="Module1"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.DriverScript">
+        <methods>
+          <include name="Test_1011"/>
+          <include name="closeTest"/>
+          <include name="endDriver"/>
+          <include name="setUp"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+          <include name="initDriver"/>
+        </methods>
+      </class> <!-- testCases.DriverScript -->
+    </classes>
+  </test> <!-- phptravel(failed) -->
+</suite> <!-- Failed suite [TestAll] -->

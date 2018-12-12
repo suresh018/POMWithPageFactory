@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Sample Test Suite]">
+  <test name="Method Test Cases(failed)">
+    <classes>
+      <class name="testCases.DriverScript">
+        <methods>
+          <include name="Test_1011"/>
+          <include name="closeTest"/>
+          <include name="Test_1010"/>
+          <include name="setUp"/>
+          <include name="initialize"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.DriverScript -->
+    </classes>
+  </test> <!-- Method Test Cases(failed) -->
+</suite> <!-- Failed suite [Sample Test Suite] -->

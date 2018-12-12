@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCases>
+   <Test_1010>
+      <username>user@phptravels.com</username>
+	  <password>demouser</password>     
+   </Test_1010>
+   <Test_1011>
+      <username>user@phptravels.com</username>
+	  <password>demouser</password>     
+   </Test_1011>
+   <Test_1012>
+      <username>user@phptravels.com</username>
+	  <password>demouser</password>     
+   </Test_1012>
+   <Test_1013>
+      <username>user@phptravels.com</username>
+	  <password>demouser</password>     
+   </Test_1013>
+   <Test_1014>
+      <username>user@phptravels.com</username>
+	  <password>demouser</password>     
+   </Test_1014>
+</TestCases>
